@@ -1,7 +1,7 @@
 {
-  "name": "n122c-atm-using-npm",
-  "version": "2.0.2",
-  "description": "ATM using inquirer ",
+  "name": "n122cc-atm-using-npm",
+  "version": "1.0.3",
+  "description": "ATM using npm ",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
